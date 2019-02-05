@@ -1,0 +1,55 @@
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sJeu.resources
+c:\users\mace\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sMenu.resources
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sJeu.resources
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sMenu.resources
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sJeu.resources
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sMenu.resources
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sOptions.resources
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sOptions.resources
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sJeu.resources
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sMenu.resources
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\loicm\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sOptions.resources
+C:\Users\mace\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sScores.resources
+C:\Users\loicm\Desktop\projets\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.sScores.resources
